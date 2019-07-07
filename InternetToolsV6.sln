@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetToolsV6", "InternetToolsV6\InternetToolsV6.csproj", "{3E6E8304-7B20-4D61-A08C-4A2E3ADCD7F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetToolsV6.Networking", "InternetToolsV6.Networking\InternetToolsV6.Networking.csproj", "{15191685-7AC8-490A-B43F-BBA40A68473D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6E8304-7B20-4D61-A08C-4A2E3ADCD7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6E8304-7B20-4D61-A08C-4A2E3ADCD7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6E8304-7B20-4D61-A08C-4A2E3ADCD7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6E8304-7B20-4D61-A08C-4A2E3ADCD7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15191685-7AC8-490A-B43F-BBA40A68473D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15191685-7AC8-490A-B43F-BBA40A68473D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15191685-7AC8-490A-B43F-BBA40A68473D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15191685-7AC8-490A-B43F-BBA40A68473D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8F8E7C-7248-4EC9-9D2A-6EA1C0A85262}
+	EndGlobalSection
+EndGlobal

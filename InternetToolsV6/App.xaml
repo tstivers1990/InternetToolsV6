@@ -1,0 +1,9 @@
+﻿<prism:PrismApplication xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                        xmlns:local="clr-namespace:InternetToolsV6"
+                        xmlns:prism="http://prismlibrary.com/"
+                        x:Class="InternetToolsV6.App">
+    <Application.Resources>
+         
+    </Application.Resources>
+</prism:PrismApplication>
